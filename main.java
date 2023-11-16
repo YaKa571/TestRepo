@@ -3,7 +3,7 @@ public class main {
         System.out.println("Hello");
 
   
-        System.out.println("was neues");
+        System.out.println("was neues und noch was");
 
         System.out.println("hab ich online erstellt");
 
